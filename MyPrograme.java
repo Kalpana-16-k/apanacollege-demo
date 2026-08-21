@@ -3,6 +3,6 @@ public class MyPrograme {
     
     public static void main(String args[])
     {
-        System.out.println("My Programe");
+        System.out.println("My Programe is running successfully");
     }
 }
